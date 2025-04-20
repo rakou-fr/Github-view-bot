@@ -16,6 +16,7 @@ Ce script Node.js utilise **Puppeteer** pour effectuer des rechargements automat
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/tonpseudo/profile-view-booster.git
-cd profile-view-booster
+git clone https://github.com/rakou-fr/Github-view-bot
+cd Github-view-bot
 npm install
+node GithubView.js <url> <nombre de vues>
